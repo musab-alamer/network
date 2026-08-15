@@ -6,8 +6,7 @@
 هذا المشروع يوضح تصميم شبكة عملية تم إعدادها وتكوينها باستخدام برنامج Cisco Packet Tracer، وهو يبرز مهارات ربط الشبكات وإعداد أجهزة التوجيه والمحولات (Routers & Switches).
 
 ## مخطط الشبكة (Topology)
-![Network Topology](Enterprise-Design.png)
-
+![Network Topology](Screenshot%202026-08-16%20005139.jpg)
 ## التقنيات والإعدادات المستخدمة
 
 **1. تقنيات التبديل (Switching & Layer 2):**
